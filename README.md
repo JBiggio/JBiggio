@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JBiggio
-- 👀 I’m interested in Ml, AI and Psychology
+- 👀 I’m interested in AI and Computational Neurosciene
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on innovative AI projects
 
